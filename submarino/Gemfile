@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+# Watir
+#gem 'watir', '6.2.1'
+
+# Rspec
+gem 'rspec', '3.6.0'
+# Selenium
+gem 'selenium-webdriver', '~> 2.53', '>= 2.53.4'
+gem 'geckodriver-helper'
